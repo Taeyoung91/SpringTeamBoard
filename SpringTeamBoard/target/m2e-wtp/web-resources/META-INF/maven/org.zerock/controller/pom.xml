@@ -155,8 +155,18 @@
 			<artifactId>junit</artifactId>
 			<version>4.12</version>
 			<scope>test</scope>
+<<<<<<< HEAD
 		</dependency> 
 		       
+=======
+		</dependency>
+
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.16.4</version>
+		</dependency>
+>>>>>>> 84b4af801ef2ccf50b46f8f6bb704883e67ecbde
 	</dependencies>
     <build>
         <plugins>
