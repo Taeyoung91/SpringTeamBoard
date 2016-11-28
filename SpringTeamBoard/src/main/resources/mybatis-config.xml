@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE configuration
   PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
@@ -11,3 +12,18 @@
 
 </configuration>
 
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+  <typeAliases>
+    <package name="org.zerock.domain"/>    
+  </typeAliases>
+
+
+</configuration>
+
+>>>>>>> 84b4af801ef2ccf50b46f8f6bb704883e67ecbde
